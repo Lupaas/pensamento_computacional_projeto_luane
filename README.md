@@ -49,7 +49,7 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
 * | Gustavo Jesus | Igor Batista | João Teles | Julio Ilidio | Lana Reis | Larissa Silva |
 * | Leandro Xavier | Lorenzo Carmo | Luis Gentil | Luiz Silva | Miguel Alves | Milena Oliveira |
-* |Filipe Luis, | Maria Eduarda Verissimo,| Isabella Sampaio |
+* |Filipe Luis, | Maria Eduarda Verissimo,| Isabella Sampaio |<!--Feito com Profy-->
 
 ---
 
@@ -76,14 +76,15 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
-<💇‍♀️** Salão de Beleza: | Filipe Luis, | Maria Eduarda V.| Isabella Sampaio |-->
+<💇‍♀️** Salão de Beleza: | Filipe Luis, | Maria Eduarda V.| Isabella Sampaio |<!--Feito com Profy-->
 
-<!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do Felipe mendes e do Igor feitas -->
-<!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. espaço do diogo -->
-<!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. espaço da Bea -->
-<!-- * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. espaço da Isa -->
-<!-- * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. espaço do Pedro -->
-<!-- espaço da Geovana Leite e Gabrielly Santos -->
+
+
+
+
+
+
+
 
 ---
 
