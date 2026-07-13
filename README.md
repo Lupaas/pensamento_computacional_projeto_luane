@@ -36,13 +36,13 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ## 👥 Participantes Organizados
 
 ### 🌅 Manhã (Segunda e Terça)
-* <!--nathan-->| Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
-* <!--felipe mendes-->| Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nob
-* <!--diogo-->| Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Ba
-*<!--bea-->
+* | Nathan Dias |
+* | Felipe Mendes| Igor Freitas <!--Colocado Nosso Nome-->
+* |<!--diogo-->| Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Ba
+* |<!--bea-->
 * | Isabelly | Sarah | Ester |
-*<!--pedro-->
-*<!--geo-->
+* |<!---->
+* | Geovana Leite | Gabrielly Santos
 
 ### 🌆 Tarde (Segunda e Terça)
 * | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
@@ -54,23 +54,27 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 ## 📂 Projetos por Tema
 
-* **🍔 Hamburgueria:** Marcos, Samuel, Diego
+* **💈 Barbearia:** Nathan Dias
+* **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel.
+* **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana.
+* **🍧 Açaí:** Isabelly, sarah, ester.
+* **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry.
+* **✂️ Barbearia:** Allan, Igor, Milena, Yuri.
+* **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.
+
 * | Gabriel L., Gabriele C., Maria M., Vinicius B.
 * | Gabriela L., Henrique S., Laís R., Rychard R.
 * | Beatriz O., Clara, João, Maria F.
 * | Claudomiro S., Richard P.
 * | Julio I., Miguel A.
-*<!--1-espço do nathan-->
-*<!--2_espaço do felipe mendes-->
-*<!--3-espaço do diogo-->
-* **🍧 Açaí:** Isabelly, sarah, ester.
-*<!--4-espaço da bea-->
-*<!--5-espaço do pedro-->
-*<!--6-espaço da geo-->
-* **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana.
-* **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry.
-* **✂️ Barbearia:** Allan, Igor, Milena, Yuri.
-* **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.
+
+
+<!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do Felipe mendes e do Igor feitas -->
+<!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. espaço do diogo -->
+<!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. espaço da Bea -->
+<!-- * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. espaço da Isa -->
+<!-- * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. espaço do Pedro -->
+<!-- espaço da Geovana Leite e Gabrielly Santos -->
 
 ---
 
