@@ -36,9 +36,13 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ## 👥 Participantes Organizados
 
 ### 🌅 Manhã (Segunda e Terça)
-* | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
-* | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nobre |
-* | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista |
+* <!--nathan-->| Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
+* <!--felipe mendes-->| Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nob
+* <!--diogo-->| Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Ba
+*<!--bea-->
+* | Isabelly | Sarah | Ester |
+*<!--pedro-->
+*<!--geo-->
 
 ### 🌆 Tarde (Segunda e Terça)
 * | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
@@ -56,7 +60,13 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Beatriz O., Clara, João, Maria F.
 * | Claudomiro S., Richard P.
 * | Julio I., Miguel A.
-* **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel.
+*<!--1-espço do nathan-->
+*<!--2_espaço do felipe mendes-->
+*<!--3-espaço do diogo-->
+* **🍧 Açaí:** Isabelly, sarah, ester.
+*<!--4-espaço da bea-->
+*<!--5-espaço do pedro-->
+*<!--6-espaço da geo-->
 * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana.
 * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry.
 * **✂️ Barbearia:** Allan, Igor, Milena, Yuri.
