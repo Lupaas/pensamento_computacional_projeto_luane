@@ -50,7 +50,7 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Leandro Xavier |Rebeca Del Negro| Ellis Oliveira | Daniel Souza | Manuela Andrade |<!--nosso grupo-->
 * | Leandro Xavier | Lorenzo Carmo | Luis Gentil | Luiz Silva | Miguel Alves | Milena Oliveira |
 * | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana |
-
+* | Leonardo Sales |
 ---
 
 ## 📂 Projetos por Tema
@@ -74,23 +74,10 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 
 
-
 * ** 🍔 Hamburgeria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
 
 
-
-
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-<!--G.Carvalho-->
-<!--Rebecca-->
-<!--G.Medeiros-->
-<!--Filipe-->
-<!--L.Sales-->
-
+* ** ✂ Barbearia:** Leonardo Sales
 <!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do Felipe mendes e do Igor feitas -->
 <!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. espaço do diogo -->
 <!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. espaço da Bea -->
