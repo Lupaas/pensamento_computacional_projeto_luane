@@ -56,7 +56,7 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
-* | MIguel Dias | Sophia Neris
+* | Miguel Dias | Sophia Neris | Yasmin Silva | Pedro Henrique | Nicollas Tegas| Anna Clara | Tiago Araujo
 * | Carlos Pereira | 
 * | Isabelly |
 * | Luane |
@@ -72,6 +72,23 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. <!--Açaiteria-->
 * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.<!--Barbearia-->
 * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. <!--Salão Beleze-->
+
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+* **🍇 Açaiteria:** Miguel, Sophia, Yasmin, Pedro, Anna, Nicollas, Tiago <!--Açaiteria-->
 
 * | Gabriel L., Gabriele C., Maria M., Vinicius B.
 * | Gabriela L., Henrique S., Laís R., Rychard R.
