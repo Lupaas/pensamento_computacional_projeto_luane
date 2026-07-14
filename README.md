@@ -51,7 +51,17 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro | <!--nosso grupo-->
 * | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana |<!--Desconnhecidos-->
 * | Leonardo Sales |
-
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--grupo-->
+<!--grupo-->
+<!--grupo-->
+<!--grupo-->
+<!--grupo-->
+<!--grupo-->
 ---
 
 ## 📂 Projetos por Tema
@@ -63,7 +73,27 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. <!--Açaiteria-->
 * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.<!--Barbearia-->
 * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. <!--Salão Beleze-->
-
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--* **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
 * | Gabriel L., Gabriele C., Maria M., Vinicius B.
 * | Gabriela L., Henrique S., Laís R., Rychard R.
 * | Beatriz O., Clara, João, Maria F.
