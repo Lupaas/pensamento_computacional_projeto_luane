@@ -45,11 +45,11 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Geovana Leite | Gabrielly Santos
 
 
-### 🌆 Tarde (Segunda e Terça)
+### 🌆 Tarde (Segunda e Terça)<!--Turma de Segunda - 5 Linhas e Terça - 5 Linhas-->
 * | Gabriel Carvalho | Gustavo | Nicolas | Felipe | Kauan | Victor |  <!-- Nosso grupo-->
 * | Leandro Xavier |Rebeca Del Negro| Ellis Oliveira | Daniel Souza | Manuela Andrade |<!--nosso grupo-->
 * | Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro | <!--nosso grupo-->
-* | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana |<!--Desconnhecidos-->
+* | <!--Desconnhecidos--> | <!--Desconnhecidos-->
 * | Leonardo Sales |
 <!--vazio-->
 <!--vazio-->
@@ -57,8 +57,15 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 
----
+* | Miguel Dias | Sophia Neris | Yasmin Silva | Pedro Henrique | Nicollas Tegas| Anna Clara | Tiago Araujo
+* | Carlos Pereira | 
+* | Luane |
+* | Pietro |
+* | Samuel |
+=======
 
+
+---
 ## 📂 Projetos por Tema
 
 * **💈 Barbearia:** Nathan Dias
@@ -67,7 +74,6 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. <!--Padaria-->
 * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. <!--Açaiteria-->
 * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.<!--Barbearia-->
-* **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. <!--Salão Beleze-->
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
@@ -83,13 +89,15 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
+<!--vazio-->
+* **🍇 Açaiteria:** Miguel, Sophia, Yasmin, Pedro, Anna, Nicollas, Tiago <!--Açaiteria-->
 * **✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
 * ** 🍔 Hambúrgueria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
 * **🍔 Hambúrgueria:** Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro 
 <!--Rebecca-->
 * ** ✂️ Barbearia:** Leonardo Sales
-
-
+<!--vazio-->
+<!--vazio-->
 ---
 
 ## 💻 Exemplos de Código (Python)
