@@ -37,11 +37,11 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 ### 🌅 Manhã (Segunda e Terça)
 * | Nathan Dias |
-* | Felipe Mendes| Igor Freitas | <!--Colocado Nosso Nome-->
+* | Felipe Mendes| Igor Freitas |
 * | Diogo Santos | Matheus |
 * | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista | <!--Bea-->
-* |<!--Isa-->
-* |<!--Pedro-->
+* |<!--Isa-->|
+* |<!--Pedro-->|
 * | Geovana Leite | Gabrielly Santos
 
 
@@ -56,12 +56,7 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
-<!--grupo-->
-<!--grupo-->
-<!--grupo-->
-<!--grupo-->
-<!--grupo-->
-<!--grupo-->
+
 ---
 
 ## 📂 Projetos por Tema
@@ -87,33 +82,13 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
-<!--* **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.-->
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-* | Gabriel L., Gabriele C., Maria M., Vinicius B.
-* | Gabriela L., Henrique S., Laís R., Rychard R.
-* | Beatriz O., Clara, João, Maria F.
-* | Claudomiro S., Richard P.
-* | Julio I., Miguel A.
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
 <!--vazio-->
 * **✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
-* ** 🍔 Hamburgeria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
+* ** 🍔 Hambúrgueria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
 * **🍔 Hambúrgueria:** Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro 
 <!--Rebecca-->
-* ** ✂ Barbearia:** Leonardo Sales
-<!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do Felipe mendes e do Igor feitas -->
-<!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. espaço do diogo -->
-<!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. espaço da Bea -->
-<!-- * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. espaço da Isa -->
-<!-- * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. espaço do Pedro -->
-<!-- espaço da Geovana Leite e Gabrielly Santos -->
+* ** ✂️ Barbearia:** Leonardo Sales
+
 
 ---
 
