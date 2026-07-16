@@ -38,8 +38,8 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ### 🌅 Manhã (Segunda e Terça)
 * | Nathan Dias |
 * | Felipe Mendes| Igor Freitas |
-* | Diogo Santos | Matheus |
-* | <!--Bea--> | 
+* | Diogo Santos | Matheus Santos |
+* | Beatriz | Gustavo | Yasmim | Maria | 
 * |<!--Isa-->|
 * |<!--Pedro-->|
 * | Geovana Leite | Gabrielly Santos
@@ -69,12 +69,9 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
+
 ---
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
+
 ## 📂 Projetos por Tema
 
 * **💈 Barbearia:** Nathan Dias
@@ -88,11 +85,11 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
-* ** ✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
-* ** 🍔 Hamburgeria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
-* ** 🍔 Hambúrgueria:** Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro 
-* ** 💇‍♀️Salão de Beleza: | Filipe Luis, | Maria Eduarda V.| Isabella Sampaio |<!--Feito com Profy-->
-* ** ✂ Barbearia:** Leonardo Sales
+* **💈 Barbearia:** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
+* **🍔 Hamburgeria:** Leandro C., Rebeca N., Daniel S., Ellis O., Manuella A.
+* **🍔 Hambúrgueria:** Giovana Medeiros, Gabriel Aquino, Lucas Prates, Rafael Aquino, Arthur Cordeiro 
+* **💇‍♀️Salão de Beleza:** Filipe Luis, Maria Eduarda V., Isabella Sampaio 
+* **✂️ Barbearia:** Leonardo Sales
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
@@ -109,10 +106,11 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 * **🍇 Açaiteria:** Miguel, Sophia, Yasmin, Pedro, Anna, Nicollas, Tiago 
-* **✂️ Barbearia:** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
-* ** 🍔 Hambúrgueria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
+* **💈 Barbearia:** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
+* **🍔 Hambúrgueria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
 * **🍔 Hambúrgueria:** Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro 
-* ** ✂️ Barbearia:** Leonardo Sales
+* **💈 Barbearia:** Leonardo Sales
+
 
 ---
 
