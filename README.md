@@ -37,31 +37,34 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 ### 🌅 Manhã (Segunda e Terça)
 * | Nathan Dias |
-* | Felipe Mendes| Igor Freitas | <!--Colocado Nosso Nome-->
+* | Felipe Mendes| Igor Freitas |
 * | Diogo Santos | Matheus |
 * | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista | <!--Bea-->
-* |<!--Isa-->
-* |<!--Pedro-->
+* |<!--Isa-->|
+* |<!--Pedro-->|
 * | Geovana Leite | Gabrielly Santos
 
 
-### 🌆 Tarde (Segunda e Terça)
+### 🌆 Tarde (Segunda e Terça)<!--Turma de Segunda - 5 Linhas e Terça - 5 Linhas-->
 * | Gabriel Carvalho | Gustavo | Nicolas | Felipe | Kauan | Victor |  <!-- Nosso grupo-->
 * | Leandro Xavier |Rebeca Del Negro| Ellis Oliveira | Daniel Souza | Manuela Andrade |<!--nosso grupo-->
 * | Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro | <!--nosso grupo-->
-* | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana |<!--Desconnhecidos-->
+* | <!--Desconnhecidos--> | <!--Desconnhecidos-->
 * | Leonardo Sales |
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
+
 * | Miguel Dias | Sophia Neris | Yasmin Silva | Pedro Henrique | Nicollas Tegas| Anna Clara | Tiago Araujo
 * | Carlos Pereira | 
-* | Isabelly |
 * | Luane |
 * | Pietro |
 * | Samuel |
+=======
+
+
 ---
 ## 📂 Projetos por Tema
 
@@ -71,8 +74,7 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. <!--Padaria-->
 * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. <!--Açaiteria-->
 * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.<!--Barbearia-->
-* **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. <!--Salão Beleze-->
-
+<!--vazio-->
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
@@ -89,28 +91,13 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 * **🍇 Açaiteria:** Miguel, Sophia, Yasmin, Pedro, Anna, Nicollas, Tiago <!--Açaiteria-->
-
-* | Gabriel L., Gabriele C., Maria M., Vinicius B.
-* | Gabriela L., Henrique S., Laís R., Rychard R.
-* | Beatriz O., Clara, João, Maria F.
-* | Claudomiro S., Richard P.
-* | Julio I., Miguel A.
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
-<!--vazio-->
 * **✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
-* ** 🍔 Hamburgeria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
+* ** 🍔 Hambúrgueria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
 * **🍔 Hambúrgueria:** Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro 
 <!--Rebecca-->
-* ** ✂ Barbearia:** Leonardo Sales
-<!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do Felipe mendes e do Igor feitas -->
-<!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. espaço do diogo -->
-<!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. espaço da Bea -->
-<!-- * **✂️ Barbearia:** Allan, Igor, Milena, Yuri. espaço da Isa -->
-<!-- * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani. espaço do Pedro -->
-<!-- espaço da Geovana Leite e Gabrielly Santos -->
-
+* ** ✂️ Barbearia:** Leonardo Sales
+<!--vazio-->
+<!--vazio-->
 ---
 
 ## 💻 Exemplos de Código (Python)
