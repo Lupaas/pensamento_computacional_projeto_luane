@@ -51,6 +51,8 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro | <!--nosso grupo-->
 * | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana |<!--Desconnhecidos-->
 * | Leonardo Sales |
+
+| Luane Penafort | Larissa Souza
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
