@@ -39,33 +39,42 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Nathan Dias |
 * | Felipe Mendes| Igor Freitas |
 * | Diogo Santos | Matheus |
-* | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista | <!--Bea-->
+* | <!--Bea--> | 
 * |<!--Isa-->|
 * |<!--Pedro-->|
 * | Geovana Leite | Gabrielly Santos
-
-
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
 ### 🌆 Tarde (Segunda e Terça)<!--Turma de Segunda - 5 Linhas e Terça - 5 Linhas-->
 * | Gabriel Carvalho | Gustavo | Nicolas | Felipe | Kauan | Victor |  <!-- Nosso grupo-->
 * | Leandro Xavier |Rebeca Del Negro| Ellis Oliveira | Daniel Souza | Manuela Andrade |<!--nosso grupo-->
 * | Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro | <!--nosso grupo-->
-* | <!--Desconnhecidos--> | <!--Desconnhecidos-->
+* | Filipe Luis, | Maria Eduarda Verissimo,| Isabella Sampaio |<!--Feito com Profy-->
 * | Leonardo Sales |
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
-
 * | Miguel Dias | Sophia Neris | Yasmin Silva | Pedro Henrique | Nicollas Tegas| Anna Clara | Tiago Araujo
 * | Carlos Pereira | 
 * | Luane |
 * | Pietro |
 * | Samuel |
-=======
-
-
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
 ---
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
 ## 📂 Projetos por Tema
 
 * **💈 Barbearia:** Nathan Dias
@@ -79,6 +88,11 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
+* ** ✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
+* ** 🍔 Hamburgeria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
+* ** 🍔 Hambúrgueria:** Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro 
+* ** 💇‍♀️Salão de Beleza: | Filipe Luis, | Maria Eduarda V.| Isabella Sampaio |<!--Feito com Profy-->
+* ** ✂ Barbearia:** Leonardo Sales
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
@@ -90,14 +104,16 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
-* **🍇 Açaiteria:** Miguel, Sophia, Yasmin, Pedro, Anna, Nicollas, Tiago <!--Açaiteria-->
-* **✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+* **🍇 Açaiteria:** Miguel, Sophia, Yasmin, Pedro, Anna, Nicollas, Tiago 
+* **✂️ Barbearia:** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor
 * ** 🍔 Hambúrgueria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
 * **🍔 Hambúrgueria:** Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro 
-<!--Rebecca-->
 * ** ✂️ Barbearia:** Leonardo Sales
-<!--vazio-->
-<!--vazio-->
+
 ---
 
 ## 💻 Exemplos de Código (Python)
